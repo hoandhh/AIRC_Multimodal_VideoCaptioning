@@ -22,7 +22,7 @@ dependencies:
   - idna=2.9=py_1
   - intel-openmp=2020.0=166
   - joblib=0.14.1=py_0
-  # - ld_impl_linux-64=2.33.1=h53a641e_7
+  - ld_impl_linux-64=2.33.1=h53a641e_7
   - libedit=3.1.20181209=hc058e9b_0
   - libffi=3.2.1=hd88cf55_4
   - libgcc-ng=9.1.0=hdf63c60_0
@@ -79,4 +79,5 @@ dependencies:
   - xz=5.2.5=h7b6447c_0
   - zlib=1.2.11=h7b6447c_3
   - pip:
-      - torchtext==0.3.1
+    - torchtext==0.3.1
+
