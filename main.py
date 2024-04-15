@@ -14,7 +14,7 @@ def main(cfg):
     elif cfg.procedure == 'evaluate':
         eval_on_learned_props(cfg)
     else:
-        raise NotImplementedError
+        raise NotImplementedError8
 
 
 if __name__ == "__main__":
